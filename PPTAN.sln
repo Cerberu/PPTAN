@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPTAN.CSharp.Plugins", "PPTAN.CSharp.Plugins.csproj", "{5E0EBEBD-5035-84E1-FCD3-5BEE88F2E727}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPTAN.CSharp", "PPTAN.CSharp.csproj", "{1216F0B1-8488-0C39-E33B-22319AEFE4EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E0EBEBD-5035-84E1-FCD3-5BEE88F2E727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0EBEBD-5035-84E1-FCD3-5BEE88F2E727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0EBEBD-5035-84E1-FCD3-5BEE88F2E727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0EBEBD-5035-84E1-FCD3-5BEE88F2E727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1216F0B1-8488-0C39-E33B-22319AEFE4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1216F0B1-8488-0C39-E33B-22319AEFE4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1216F0B1-8488-0C39-E33B-22319AEFE4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1216F0B1-8488-0C39-E33B-22319AEFE4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperBreakout.CSharp.Plugins", "SuperBreakout.CSharp.Plugins.csproj", "{20820ABD-772F-2810-D7F6-72472447D2EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperBreakout.CSharp", "SuperBreakout.CSharp.csproj", "{7B3C52CB-73B5-724C-DE2C-523274C0C87D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20820ABD-772F-2810-D7F6-72472447D2EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20820ABD-772F-2810-D7F6-72472447D2EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20820ABD-772F-2810-D7F6-72472447D2EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20820ABD-772F-2810-D7F6-72472447D2EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B3C52CB-73B5-724C-DE2C-523274C0C87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B3C52CB-73B5-724C-DE2C-523274C0C87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B3C52CB-73B5-724C-DE2C-523274C0C87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B3C52CB-73B5-724C-DE2C-523274C0C87D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
